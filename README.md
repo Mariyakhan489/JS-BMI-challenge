@@ -1,1 +1,2 @@
-# JS-BMI-challenge
+# JS-BMI-challengeD
+![BMI Screenshot](bmi.jpeg)
